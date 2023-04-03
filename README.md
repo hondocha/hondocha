@@ -33,7 +33,7 @@ src="https://img.shields.io/twitch/status/itishonda?logo=twitchsx&style=for-the-
 <a href="https://www.twitch.tv/itishonda" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 <a href="https://t.me/hondocha" target="_blank" rel="noreferrer">
-<img src="https://icons8.ru/icon/EWzVSK2hyV9H/телеграмма-app" width="32" height="32" /></a></p>
+<img src="https://cdn.icon-icons.com/icons2/923/PNG/256/telegram_icon-icons.com_72055.png" width="32" height="32" /></a></p>
 
 ### Badges
 
