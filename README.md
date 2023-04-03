@@ -1,4 +1,4 @@
-Hi ![![Header](https://github.com/hondocha/hondocha/blob/main/assets/previy.png)](https://vk.com/itishonda)My name is Anton Simutin
+Hi ![](https://github.com/hondocha/hondocha/blob/main/assets/previy.png)My name is Anton Simutin
 =====================================================================================================================================
 
 I'm a beginner programmer, designer and little streamer
