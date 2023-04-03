@@ -1,4 +1,4 @@
-[![Header](https://github.com/hondocha/hondocha/blob/master/assets/previy.png)](https://vk.com/itishonda)
+[![Header](https://github.com/hondocha/hondocha/blob/main/assets/previy.png)](https://vk.com/itishonda)
 
 ABOUT ME
 
