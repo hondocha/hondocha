@@ -1,4 +1,4 @@
-![Header](https://github.com/hondocha/hondocha/blob/main/assets/previy.png)Hi! My name is Anton Simutin👋
+![Header](https://github.com/hondocha/hondocha/blob/main/assets/previy2.png)Hi! My name is Anton Simutin👋
 =====================================================================================================================================
 
 I'm a beginner programmer, designer and little streamer 
