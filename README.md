@@ -1,7 +1,7 @@
 ![Header](https://github.com/hondocha/hondocha/blob/main/assets/previy2.png)Hi! My name is Anton Simutin👋
 =====================================================================================================================================
 
-I'm a beginner programmer, designer and little streamer 
+Web Developer & Designer & Media-Giant
 -------------------------------------------------------
 
 * 🌍  I'm based in Novosibirsk
@@ -26,7 +26,14 @@ src="https://img.shields.io/twitch/status/itishonda?logo=twitchsx&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/honda#7854" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/hondocha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/itishonda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/honda#7854" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/hondocha" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://www.twitch.tv/itishonda" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
+<a href="https://t.me/hondocha" target="_blank" rel="noreferrer">
+<img src="https://icons8.ru/icon/EWzVSK2hyV9H/телеграмма-app" width="32" height="32" /></a></p>
 
 ### Badges
 
