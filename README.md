@@ -1,7 +1,7 @@
 ![Header](https://github.com/hondocha/hondocha/blob/main/assets/previy.png)Hi! My name is Anton Simutin👋
 =====================================================================================================================================
 
-I'm a beginner programmer, designer and little streamer
+I'm a beginner programmer, designer and little streamer 
 -------------------------------------------------------
 
 * 🌍  I'm based in Novosibirsk
